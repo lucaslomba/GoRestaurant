@@ -10,8 +10,9 @@ import { useField } from '@unform/core';
 import { Container } from './styles';
 
 interface InputProps{
-  name: string
-  icon: string
+  name: string;
+  icon?: string;
+  placeholder?: string;
 }
 
 const Input = ({ name, icon: Icon, ...rest }: InputProps ): JSX.Element => {
