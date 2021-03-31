@@ -17,12 +17,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Teste 2",
-      "price": "20.00",
-      "description": "teste 2",
-      "available": true,
-      "id": 4
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda italiana",
+      "price": "19.90",
+      "description": "Macarrão com milho, ervilha e temperado com orégano e sal do himalaia.",
+      "id": 3,
+      "available": true
     }
   ]
 }
